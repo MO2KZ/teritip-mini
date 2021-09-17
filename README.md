@@ -1,13 +1,13 @@
-# Try Out Development Containers: Node.js
-
-A **development container** is a running [Docker](https://www.docker.com) container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
-
-This is a sample project that lets you try out either option in a few easy steps. We have a variety of other [vscode-remote-try-*](https://github.com/search?q=org%3Amicrosoft+vscode-remote-try-&type=Repositories) sample projects, too.
-
-> **Note:** If you already have a Codespace or dev container, you can jump to the [Things to try](#things-to-try) section.
-
-## Setting up the development container
-
+# Coba Wadah Pengembangan: Node.js
+kami
+sebuah wadah pengembangan ** ** adalah berjalan [Docker] ( https://www.docker.com ) kontainer dengan baik didefinisikan alat / runtime stack dan prasyaratnya. Anda dapat mencoba wadah pengembangan dengan ** [GitHub Codespaces] ( https://github.com/features/codespaces ) ** atau ** [Visual Studio Code Remote - Containers] ( https://aka.ms/vscode- jarak jauh/wadah)** .
+kami
+Ini adalah contoh proyek yang mendukung Anda mencoba salah satu opsi dalam beberapa langkah mudah. Kami juga memiliki berbagai proyek contoh [vscode-remote-try- *] ( https://github.com/search?q=org%3Amicrosoft+vscode-remote-try-&type=Repositories ) .
+kami
+> **Catatan:** Jika Anda sudah memiliki Codespace atau wadah dev, Anda dapat melompat ke bagian [Hal-hal untuk dicoba] (#hal-hal-untuk-coba) .
+kami
+## Pengembangan Wadah
+kami
 ### GitHub Codespaces
 Follow these steps to open this sample in a Codespace:
 1. Click the Code drop-down menu and select the **Open with Codespaces** option.
